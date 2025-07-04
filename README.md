@@ -9,7 +9,7 @@ This project explores consumer sentiment, ratings distribution, discount behavio
 
 ## 🔍 Key Insights
 - 📈 Products rated 4.5+ made up 38% of total listings
-- 💸 Over 20% of products have discounts ≥50%
+- 💸 Over 49% of products have discounts ≥50%
 - 🌟 Electronics and Beauty had the highest average ratings
 
 ## 📊 Dashboard Overview
