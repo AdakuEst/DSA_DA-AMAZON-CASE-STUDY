@@ -7,11 +7,11 @@ This project explores consumer sentiment, ratings distribution, discount behavio
 ##    Project Overview
 - Analysing product and customer review data to generate insights that can guide product improvement, marketing strategies, and customer engagement.
 
-## 🔍 Key Insights
-- %
-- 📈 Products rated 4.5+ made up 38% of total listings
+## 🔍 Key Insights/ Findings
+- %   Home Improvement made over 58% Discount % which has the best deal for the business 
+- 📈 
 - 💸 Over 49% of products have discounts ≥50%
-- 🌟 Electronics and Beauty had the highest average ratings
+- 🌟 Electronics had the highest average ratings
 
 ## 📊 Dashboard Overview
 [My Analysis](https://1drv.ms/x/c/1ff2dce9187787b3/Ebafei8_89pOsnRaVC23EosBeqPMRhV960K3o5cf_b0qcQ?e=RP5pqS
