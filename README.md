@@ -10,7 +10,9 @@ This project explores consumer sentiment, ratings distribution, discount behavio
 ## 🔍 Key Insights/ Findings
 - %   Home Improvement made over 58% Discount % which has the best deal for the business 
 - 💸 Over 49% of products have discounts ≥50%
-- 🌟 Electronics had the highest average ratings
+- 🌟 Electronics had the highest average ratings https://www.amazon.in/AmazonBasics-High-Speed-Cable-2-Pack-Black/dp/B014I8SX4Y/ref=sr_1_73?qid=1672909128&s=electronics&sr=1-73
+![image](https://github.com/user-attachments/assets/c0abb6a2-c200-498b-a0b2-e35544d7e519)
+
 
 ## 📊 Dashboard Overview
 [My Analysis](https://1drv.ms/x/c/1ff2dce9187787b3/Ebafei8_89pOsnRaVC23EosBeqPMRhV960K3o5cf_b0qcQ?e=RP5pqS
