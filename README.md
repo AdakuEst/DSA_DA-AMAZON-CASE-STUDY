@@ -13,6 +13,9 @@ This project explores consumer sentiment, ratings distribution, discount behavio
 - 🌟 Electronics and Beauty had the highest average ratings
 
 ## 📊 Dashboard Overview
+[My Analysis](https://1drv.ms/x/c/1ff2dce9187787b3/Ebafei8_89pOsnRaVC23EosBeqPMRhV960K3o5cf_b0qcQ?e=RP5pqS
+
+)
 
 ## 📁 File Guide
 
