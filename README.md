@@ -9,7 +9,6 @@ This project explores consumer sentiment, ratings distribution, discount behavio
 
 ## 🔍 Key Insights/ Findings
 - %   Home Improvement made over 58% Discount % which has the best deal for the business 
-- 📈 
 - 💸 Over 49% of products have discounts ≥50%
 - 🌟 Electronics had the highest average ratings
 
@@ -42,17 +41,16 @@ This project explores consumer sentiment, ratings distribution, discount behavio
 13. Which categories have products with the highest discounts? 
 14. Identify the top 5 products in terms of rating and number of reviews combined.
 
-## 📊 Types of Averages You Might Use:
-
 ## 📈 Project Insights
 
 ## 📌 Focus Areas
-- Rating distribution
-- Discount levels
+- Average Discount Percentage
+- Rating Relationship with Discount
 - Product/category review volumes
+- Price Ranges
 - Revenue estimation (Actual Price × Review Count)
 
 ## 📬 Feedback & Collaboration
-Have ideas to enhance this project or want to collaborate? Feel free to fork the repo or open an issue.
+This Journey has given me great insight on how to navigate my way around Excel, Analysing with Excel and Creating an interactive dashboard. I remain open to more feedbacks and learning opportunity and working with a collaborative insigtful team
 
 ---
