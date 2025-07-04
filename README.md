@@ -41,6 +41,10 @@ This project explores consumer sentiment, ratings distribution, discount behavio
 13. Which categories have products with the highest discounts? 
 14. Identify the top 5 products in terms of rating and number of reviews combined.
 
+## 📊 Types of Averages You Might Use:
+
+## 📈 Project Insights
+
 ## 📌 Focus Areas
 - Rating distribution
 - Discount levels
